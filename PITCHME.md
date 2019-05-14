@@ -242,7 +242,7 @@ https://csv-to-table.netlify.com/
 @size[1.1em](【Qiita】)   
 [チンケなアプリを作って実感した、「個人開発って、物凄い事なんじゃないのか？」という事。](https://qiita.com/kakisoft/items/23053cf330b52215e848)  
 　  
-  
+　  
 @size[1.1em](【制作過程の雑多な記録（ブログ）】)   
 [https://kakiflow.com/](https://kakiflow.com/)  
 ---
